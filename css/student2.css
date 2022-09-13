@@ -32,4 +32,11 @@ main img {
     border: 10px dashed red;
     box-sizing: border-box; 
 }
+
+p {
+   color: blue; 
+   background-color: yellow;
+   padding: 20px; 
+   margin: 10px;
+}
  
